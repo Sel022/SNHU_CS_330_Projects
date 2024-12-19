@@ -62,27 +62,27 @@ The following are the key functions available for interacting with the 3D window
 ### **1. Overall Scene**
 The scene features multiple 3D objects arranged to form a cohesive and visually engaging layout. Objects are positioned and scaled to create an immersive environment.
 
-![Overall Scene]()
+![Overall Scene](https://github.com/Sel022/SNHU_CS_330_Projects/blob/main/Projects/outputs/OverallScene.jpg)
 
 ### **2. Monitor**
 The monitor is built from simple cubes and textured using custom designs created in Paint3D.
 
-![Monitor]()
+![Monitor](https://github.com/Sel022/SNHU_CS_330_Projects/blob/main/Projects/outputs/Monitor.jpg)
 
 ### **3. Mouse & Keyboard**
 The mouse is modeled using a scaled-down sphere, while the keyboard and its individual keys are constructed using basic cubes. Textures are also created using Paint3D.
 
-![Mouse]()
+![Mouse](https://github.com/Sel022/SNHU_CS_330_Projects/blob/main/Projects/outputs/Keyboard%26Mouse.jpg)
 
 ### **4. Coffee Cup**
 The coffee cup is modeled using a combination of hollow cylinders and a half-torus, showcasing the ability to combine basic shapes to form more complex objects.
 
-![Coffee Cup]()
+![Coffee Cup](https://github.com/Sel022/SNHU_CS_330_Projects/blob/main/Projects/outputs/CoffeMug.jpg)
 
 ### **5. Pen**
 The pen is constructed from a cone and an elongated cylinder, demonstrating the use of basic geometric shapes to model everyday objects.
 
-![Pen]()
+![Pen](https://github.com/Sel022/SNHU_CS_330_Projects/blob/main/Projects/outputs/Pen.jpg)
 
 ---
 
